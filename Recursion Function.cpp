@@ -5,7 +5,7 @@
 
 #include "Recursion Function.h"
 
-long factorial_r( double value)
+long factorial_r( long value)
 {
 	int factResult;
 	//base case

@@ -20,7 +20,7 @@
 using namespace std;
 
 //returns a factorial for any real number
-long factorial_r( double value);
+long factorial_r( long value);
 
 //Returns the fibinacci of a number
 int fibonacci_r(long value);
