@@ -18,5 +18,13 @@
     <ClCompile Include="Lab13.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Recursion Function.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Recursion Function.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
