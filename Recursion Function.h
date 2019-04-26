@@ -19,13 +19,16 @@
 
 using namespace std;
 
-//returns a factorial for any real number
+//pre: must enter 0 or grater int 
+//Porst; returns a factorial for any real number
 long factorial_r( long value);
 
-//Returns the fibinacci of a number
+//pre; must enter 0 or grater int 
+//Post; Returns the fibinacci of a number
 int fibonacci_r(long value);
 
-//Returns true if a number prime false if not
+// pre; must enter 0 or grater int 
+// post; Returns true if a number prime false if not
 bool is_prime_r(int value, int n );
 
 //Sums all numbers in a list
